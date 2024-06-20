@@ -4,7 +4,8 @@
 2. check nginx version
      nginx -t
 3. to install nginx
-    apt-get install nginx
+    apt-get install nginx (Manual Confirmation)
+    apt-get install nginx -y (Automatic Confirmation)
    apt-get install <package_name>: This command is used to install a new package.
 
 4. to check nginx service is enable/disable
@@ -19,6 +20,9 @@
 
 7. to change file content
    echo "hello world"> index.html
-   above command can write hello world in index.html file
+   above command can write hello world in index.html file 
 
+
+
+https://www.bikenbiker.com/collections/on-sale
    
