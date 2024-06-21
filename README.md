@@ -33,8 +33,8 @@ apt-get update
     - ls -t
     - ls -r
 
-   
-
+10. less filename.txt   
+  The less command in Unix and Linux systems is a powerful tool used for viewing the contents of a file without loading the entire file into memory. It's particularly useful for inspecting large files or viewing files quickly in a paginated manner.
 
 
 https://www.bikenbiker.com/collections/on-sale
