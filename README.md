@@ -23,6 +23,16 @@ apt-get update
    echo "hello world"> index.html
    above command can write hello world in index.html file
 
+8. to check nginx is working or not or more info
+     curl -i 13.60.78.141
+
+9. ls command
+    - ls - five list of files and folder
+    - ls -ltr (list time reverse)
+    - ls -l
+    - ls -t
+    - ls -r
+
    
 
 
