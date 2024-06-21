@@ -1,4 +1,5 @@
 # notes
+apt-get update 
 1. to connect ec2 instance
   ssh -i file.pem ubuntu@public ip
 2. check nginx version
@@ -20,7 +21,9 @@
 
 7. to change file content
    echo "hello world"> index.html
-   above command can write hello world in index.html file 
+   above command can write hello world in index.html file
+
+   
 
 
 
