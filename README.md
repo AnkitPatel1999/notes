@@ -47,5 +47,36 @@ apt-get update
 
 
 
+
+-----------------------------------------------------
+etc/nginx/nginx.conf
+/usr/share/nginx/html
+
+error log => /var/log/nginx/error.log
+
+Start Nginx: sudo systemctl start nginx
+Enable Nginx to start on boot : sudo systemctl enable nginx
+Check Nginx Status : sudo systemctl status nginx
+test nginx file : nginx -t
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://www.bikenbiker.com/collections/on-sale
    
